@@ -1,0 +1,26 @@
+{
+  "name": "url-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praveen-pr-94/url-scrapping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Praveen-pr-94/url-scrapping/issues"
+  },
+  "homepage": "https://github.com/Praveen-pr-94/url-scrapping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}

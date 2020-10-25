@@ -1,0 +1,2 @@
+
+{"info":{"_postman_id":"99afc60b-7e0f-400b-bc39-7ad8106028de","name":"url-scrapping","schema":"https:\/\/schema.getpostman.com\/json\/collection\/v2.0.0\/collection.json"},"item":[{"name":"localhost:3000\/api\/urlScrape","_postman_id":"2a5a06a0-92e5-4f4c-aad6-24a1f53b3836","request":{"method":"POST","header":[],"body":{"mode":"raw","raw":"{\r\n    \"url\": \"https:\/\/twitter.com\/amazon\/status\/819012160433061888\"\r\n}","options":{"raw":{"language":"json"}}},"url":"localhost:3000\/api\/urlScrape"},"response":[]}],"protocolProfileBehavior":{}}
